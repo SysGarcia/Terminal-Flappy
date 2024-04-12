@@ -23,17 +23,17 @@ To play Terminal Flappy, you'll need:
     ```windows
     python terminal_flappy.py
     ```
-    -The game will start immediately. Use the Spacebar to make the > character "flap" and move upwards. When you're not pressing the Spacebar, the character will move downwards, simulating gravity.
+    - The game will start immediately. Use the Spacebar to make the > character "flap" and move upwards. When you're not pressing the Spacebar, the character will move downwards, simulating gravity.
 
-    -Your goal is to navigate through the gaps in the pipes that come towards the > character. If you touch a pipe, it's game over!
+    - Your goal is to navigate through the gaps in the pipes that come towards the > character. If you touch a pipe, it's game over!
 
-    -The pipes will automatically move leftward across the terminal window. Time your flaps carefully to move through each gap.
+    - The pipes will automatically move leftward across the terminal window. Time your flaps carefully to move through each gap.
 
-    -The game speed is consistent, so get into a rhythm to increase your chances of success.
+    - The game speed is consistent, so get into a rhythm to increase your chances of success.
 
-    -The console will refresh for each frame of the game to create the animation effect of movement. For the best experience, maximize your terminal window before starting the game.
+    - The console will refresh for each frame of the game to create the animation effect of movement. For the best experience, maximize your terminal window before starting the game.
 
-    -To quit the game, you can simply close the terminal window, or press CTRL+C in the terminal to issue a keyboard interrupt.
+    - To quit the game, you can simply close the terminal window, or press CTRL+C in the terminal to issue a keyboard interrupt.
 
 Strategy Tips
    ```
